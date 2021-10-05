@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm [AmnaAbd](https://AmnaAbd.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [AmnaAbd](https://amnaabd.github.io/Profile/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   <br />
@@ -31,8 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - ⚡ Fun fact **Tea way better than Coffee | Change my mind!**
 
-- 😄 Pronouns: ...
-  https://open.spotify.com/user/vzhpqhqmrep0yz70cxzpi45b5
+- 😄 Pronouns: ...https://open.spotify.com/user/vzhpqhqmrep0yz70cxzpi45b5
 
 - - 💼 any freelance work? do reach, [email](mailto:amnaabdallah@gmail.com))
 
