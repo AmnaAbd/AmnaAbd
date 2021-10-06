@@ -35,8 +35,12 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:amnaabdallah@gmail.com'>amnaabdallah@gmail.com</a>
 </p>
+
+  <!--![](https://komarev.com/ghpvc/?username=AmnaAbd&color=ff69b4)-->   
+
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/amnaabd/amnaabd"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/amnaabd/amnaabd"></a> 
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=AmnaAbd&color=ff69b4"></a>
 </p>
 
 
@@ -81,8 +85,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 > There is nothing like a dream to create the future.  -- Les Misérables, by Victor Hugo
 -----------------------------------------------------------------------------------------------------------------------------------
-
-  ![](https://komarev.com/ghpvc/?username=AmnaAbd&color=ff69b4)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
