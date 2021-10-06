@@ -68,7 +68,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 **📕 Latest dev.to posts [@amnaabd](https://dev.to/amnaabd)**
 <!-- BLOG-POST-LIST:START -->
-- [ Basic Tutorial React](https://dev.to/amnaabd/ReactBasicTutorial)
+- [ Basic Tutorial React](https://dev.to/amnaabd/react-basic-tutorial-2fce)
 - [How to start and promote your open-source project?](https://dev.to/amnaabd/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/amnaabd/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/amnaabd/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
