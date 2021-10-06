@@ -161,7 +161,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
-  
+  <br/>  
 <details>
 <summary>➕ More</summary>
   
@@ -233,9 +233,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 **Operating Systems**
 
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
+<img align="right" src="https://img.shields.io/badge/French-mother tongue-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAAEK0lEQVRoge1WTWgkRRT+XnVPVycmYbPmT1jZmJ1JWFeXLCKIt+jBg1ePXryKgkdBhL16ET3Eo3rUu3jRXUQU1pNgYMNmjRuDP8F4kGSjVd3V/Tw43V1dXZ0JLK4Y+mt6pvvVm6r33ve9xwAdOnTo0KFDh/8OZL+89Or7swcqf+XwiJ8/Uvk5nWJSaUhtRBBLiTAgpCZHljGkDLO4J5Irlx7ce/Plx68z8y1mvqm13trd3b2ztrZm7msCg6deP/hl/3CSESPsxYiiGD05BiljSCkRRXGZQGpypGmO1GR4+so83nnjyXJDpTSU1lop9aNO9Haqkx+MSW9HUbQxNze3MRgM9u8l4E8f7l+QHLzw7E+33gKAsFjY3tmbDKNxhD2AQKiTQyAigIbfsG8MbSifiUgS0TLnvGyMgVIKSikcHBzi2rXrf0gpdygQ2/TxJ1+NfXlj/+wDk3uGkt8CSBNFEQAgC00v0OYhffdoKTfJ+T9TtaKTdDVJk/MqTQlAPYEGKVR8WIF6fO3grQRKu/0MEIwxZ4IgWO2J3mqm/lqRMI+xvouxQIAEg5IUEAIiI+RpioAYBgzBhMATh/DR9H+CxYAjGfwjmcrsSodKljwSarBQ7mszU4iVrNuOorRZvq0J1CRjw9rdfqYqieNk5K7V1lH1W3nV6mN7uIJ2E4C9Um1ac3diKb1cBlqTcGzk47X5BNfHiuO09UBTiD4Sa4qkJgNFiUYxQNZU8cmjYbN6wpOAjabWyQ0c1lpLE9eSshIoIIiYnKO8TVxLuK7jJgOeae/tIrIPaZ9CxzUxE6FxWdl4StaI8DT1gI22kvvvUQy09YBo2fEkUYxIgFtu/xozV79k9t613Ye23LP7SaKwfUO/+8nzYcbIBBrbFXZm2BfAxYbDY2sr3ghPaw9YleChTMpKWHUo1loYsG0+5MzkHFOPgiuGmW0uvAnYFLrWeg+4lDeCLSQwogcYbJ3RREMyZXiV9ymTkJ0qPJS5FBderoRQr34bA2BfY1ZvrbPP2i6s/c5LZn0yuL0BZwrZAY6aQrY8K0lWIXi6btQYrZ650Q+eWgyTPm6MFjZvEkVwo5rYGac2TlkPALD4g0uap47Hysd+d32KDZ2hV4+hOL1UVjMOJwHG/MxUsrQ4u3N2+sz3U9MTN2OB72bnJr81WmgpJbTW0CabSw0PVJItLcyMjQNImXnAzP0gCC4w88RJmjhjpqpEdrGoKE+tce1uaSTw3DNPfDS/MP3uh2+/eOPON42SuLgN4Ovi5epr9cXNzc3FqBdfzEx+KdHJo0KIFWZeZMYC7lG2AqRj0dso3j1//v89rK+vT/T7/ctRFF2MonhZvvfBuanNrcsh0YwMgmmEgSQhAApAxMhM9nue6p+1Tn+l3GylJv8sVuOfP7LzhbqfcXfo0KFDhw4d2vA3Jq3Dw2lQoq4AAAAASUVORK5CYII=" />
 </details>
-                        
+   <br/>                     
   📈 <strong>My github stats</strong>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=amnaabd&show_icons=true alt=amnaabd /> </p>
 
