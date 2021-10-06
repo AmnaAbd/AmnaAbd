@@ -115,6 +115,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 - [Python ZTM Cheatsheet](https://dev.to/amnaabd/python-ztm-cheatsheet-132n)
 - [Resume Interview CheckList](https://dev.to/amnaabd/resume-sheet-checklist-7la)
 - [Awesome Penetration Testing](https://dev.to/amnaabd/awesome-penetration-testing-1lcb)
+- [asyncPool](https://dev.to/amnaabd/asyncpool-hjo)
 - [How to start and promote your open-source project?](https://dev.to/amnaabd/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/amnaabd/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/amnaabd/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
