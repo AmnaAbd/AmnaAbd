@@ -105,7 +105,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 </a>
 <a href="https://codepen.io/AmnaAbd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="amnaabd" height="30" width="40" /></a>
 <a href="https://dev.to/amnaabd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amnaabd" height="30" width="40" /></a>
-<a href="https://instagram.com/amnaabd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amnaabd" height="30" width="40" /></a>
+<a href="https://instagram.com/amna.amouna.3114" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amnaabd" height="30" width="40" /></a>
 </p>
 
 **📕 Latest dev.to posts [@amnaabd](https://dev.to/amnaabd)**
@@ -113,6 +113,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 - [ Basic Tutorial React](https://dev.to/amnaabd/react-basic-tutorial-2fce)
 - [Awesome Frontend Masters Course Resources](https://dev.to/amnaabd/awesome-frontendmasters-course-resources-44b8)
 - [Python ZTM Cheatsheet](https://dev.to/amnaabd/python-ztm-cheatsheet-132n)
+- [Resume Interview CheckList](https://dev.to/amnaabd/resume-sheet-checklist-7la)
 - [How to start and promote your open-source project?](https://dev.to/amnaabd/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/amnaabd/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/amnaabd/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
