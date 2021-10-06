@@ -51,7 +51,7 @@
 
 
   
-Hi, I'm [AmnaAbd](https://amnaabd.github.io/Profile/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [AmnaAbd](https://amnaabd.github.io/Profile/), a passionate self-taught full stack web developer and a freelance software engineer from Tunisia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   <br />
@@ -59,7 +59,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on [ERP-frontend](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
+- 🔭 I’m currently working on [ERP-frontend](https://github.com/TunsiaVaccineIN/tunisia-vaccine-frontend)
 
 - 🌱 challenge: "I’m currently learning the impact of blockchain and information digitization"
 
@@ -114,6 +114,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 - [Awesome Frontend Masters Course Resources](https://dev.to/amnaabd/awesome-frontendmasters-course-resources-44b8)
 - [Python ZTM Cheatsheet](https://dev.to/amnaabd/python-ztm-cheatsheet-132n)
 - [Resume Interview CheckList](https://dev.to/amnaabd/resume-sheet-checklist-7la)
+- [Awesome Penetration Testing](https://dev.to/amnaabd/awesome-penetration-testing-1lcb)
 - [How to start and promote your open-source project?](https://dev.to/amnaabd/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/amnaabd/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 - [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/amnaabd/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
