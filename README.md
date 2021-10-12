@@ -144,7 +144,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+  ### Languages and Tools:
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -164,8 +165,18 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+      <a><img src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" height="33px" width:"33px"/></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" height="33px" width:"33px"/></a>  
+  <a><img src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" height="33px" width:"33px"/></a>  
+  <a><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="33px" width:"33px"/></a>  
+  <a><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="33px" width:"33px"/></a>
+  <a><img src="https://miro.medium.com/max/400/0*iA9H2aIpVfOIspdf.png" height="33px" width:"33px"/></a>
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="33px" width:"33px"/></a>
     </p>
   <br/>  
+
+
+
 <details>
 <summary>➕ More</summary>
   
