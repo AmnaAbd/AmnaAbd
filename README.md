@@ -2,6 +2,31 @@
 
 <h3 align="center">A Full Stack 🤓 Developer Engineer</h3>
 
+<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
+  <tbody>
+    <tr style="border: none;">
+      <td style="border: none;">
+
+- **[GitHub](https://github.com/SelimHorri)**
+- **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
+- **[Azure DevOps](https://dev.azure.com/SelimHorri/GitHub%20Opensource%20Projects)**
+- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
+- **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
+- **[Facebook](https://www.facebook.com/SelimHorri/)**
+- **[Instagram](https://www.instagram.com/selimhorri/)**
+- **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
+<!--- **[My website / Business card](https://atkuzmanov.wordpress.com/)**-->
+<!--- **[LinkTree](https://linktr.ee/atkuzmanov)**-->
+<!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
+<!-- - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80) -->
+<!-- - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)** -->
+<!-- - **[LeetCode](https://leetcode.com/atkuzmanov/)** -->
+<!--- **[Repl.it](https://repl.it/@atkuzmanov)** -->
+<!--- **[Repl.it Referral](https://repl.it/upgrade/atkuzmanov)** -->
+<!-- - **[Postman](https://explore.postman.com/atkuzmanov)** -->
+  </tbody>
+</table>
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/amna-abdallah-2b615572/">
