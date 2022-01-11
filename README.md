@@ -2,31 +2,6 @@
 
 <h3 align="center">A Full Stack 🤓 Developer Engineer</h3>
 
-<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
-  <tbody>
-    <tr style="border: none;">
-      <td style="border: none;">
-
-- **[GitHub](https://github.com/SelimHorri)**
-- **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
-- **[Azure DevOps](https://dev.azure.com/SelimHorri/GitHub%20Opensource%20Projects)**
-- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
-- **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
-- **[Facebook](https://www.facebook.com/SelimHorri/)**
-- **[Instagram](https://www.instagram.com/selimhorri/)**
-- **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
-<!--- **[My website / Business card](https://atkuzmanov.wordpress.com/)**-->
-<!--- **[LinkTree](https://linktr.ee/atkuzmanov)**-->
-<!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
-<!-- - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80) -->
-<!-- - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)** -->
-<!-- - **[LeetCode](https://leetcode.com/atkuzmanov/)** -->
-<!--- **[Repl.it](https://repl.it/@atkuzmanov)** -->
-<!--- **[Repl.it Referral](https://repl.it/upgrade/atkuzmanov)** -->
-<!-- - **[Postman](https://explore.postman.com/atkuzmanov)** -->
-  </tbody>
-</table>
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/amna-abdallah-2b615572/">
@@ -37,6 +12,16 @@
   </a>&nbsp;&nbsp;
   
 </p>
+|GITHUB STATS|MOST USED LANGUAGES|
+|:---:|:---:|
+|[![AmnaAbdallah's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
+|***PINNED REPOS***|***PINNED REPOS***|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=ecommerce-microservice-backend-app&theme=react)](https://github.com/SelimHorri/ecommerce-microservice-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=project-tracking-system-backend-app&theme=react)](https://github.com/SelimHorri/project-tracking-system-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=quarkus-plays-with-spring-h2-panache&theme=react)](https://github.com/SelimHorri/quarkus-plays-with-spring-h2-panache)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=jhipster-architectural-comparison&theme=react)](https://github.com/SelimHorri/jhipster-architectural-comparison)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=employees-simple-management&theme=react)](https://github.com/SelimHorri/employees-simple-management)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=angular-frontend-app&theme=react)](https://github.com/SelimHorri/angular-frontend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=spring-boot-angular-confinement&theme=react)](https://github.com/SelimHorri/spring-boot-angular-confinement)
+
+
 <details>
   <summary>📃 Git Resume</summary>
  
