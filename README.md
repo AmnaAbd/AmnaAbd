@@ -176,7 +176,7 @@
       </td>
       <td align="center">
            <a href="https://fr.wikipedia.org/wiki/.NET_Core">
-          <img src="https://fr.wikipedia.org/wiki/.NET_Core#/media/Fichier:.NET_Logo.svg" alt=".NetCore" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt=".NetCore" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
