@@ -13,16 +13,7 @@
   
 </p>
 
-
-
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![AmnaAbdallah's github stats](https://github-readme-stats.vercel.app/api?username=AmnaAbd&count_private=true&show_icons=true&theme=tokyonight)
-![Screenshot 2022-01-11 090016](https://user-images.githubusercontent.com/62377604/148903851-96c1d7b7-7ce4-484c-9743-b270b917ffa4.png)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
-
-
-<table border="0" cellspacing="0" cellpadding="0" allign="center">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
